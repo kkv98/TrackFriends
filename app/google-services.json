@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "886663247780",
+    "firebase_url": "https://trackfriends-16d8e.firebaseio.com",
+    "project_id": "trackfriends-16d8e",
+    "storage_bucket": "trackfriends-16d8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886663247780:android:723ad5087eeca348",
+        "android_client_info": {
+          "package_name": "com.kkv.friendtracker.trackfriends"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886663247780-0854dkq76o689h7a1fokup3obr78e412.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAJVTUIj6K8Qm2dzWaMWmWI3TpeTbl5WU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
